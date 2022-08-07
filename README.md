@@ -1,3 +1,3 @@
 ## Flight Widget
 
-### preview: link
+### preview: https://marinakatruk.github.io/flight-widget/
